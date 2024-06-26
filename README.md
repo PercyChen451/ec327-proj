@@ -1,5 +1,5 @@
 # ec327-proj
-ec327 project
+ec327 final project
 How to Play
 - Start Screen Start: Click the "Start" button to proceed to the level selection screen.
 - Level Select Screen Select Level: Click on any of the available level buttons to start the corresponding level. 
