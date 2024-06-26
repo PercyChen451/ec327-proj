@@ -1,6 +1,12 @@
 # ec327-proj
-ec327 final project
-How to Play
+ec327 final project: protect Prof Carruthers. 
+- Features using sfml library
+- Multiple game states: Start Screen, Level Select Screen, Level Screen
+- Four different types of towers, each with unique attributes
+- Incremental difficulty with increasing enemy speed and health
+- Real-time resource management
+- Intuitive graphical interface
+- sHow to Play
 - Start Screen Start: Click the "Start" button to proceed to the level selection screen.
 - Level Select Screen Select Level: Click on any of the available level buttons to start the corresponding level. 
 - Level Screen Objective: Prevent the enemies from reaching your house. 
