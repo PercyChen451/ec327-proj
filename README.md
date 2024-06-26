@@ -4,7 +4,8 @@ How to Play
 Start Screen Start: Click the "Start" button to proceed to the level selection screen.
 Level Select Screen Select Level: Click on any of the available level buttons to start the corresponding level. 
 Level Screen Objective: Prevent the enemies from reaching your house. 
-Placing Towers: Click on a circle on the map to select it, then press a number key (1-4) to place a tower. Each number corresponds to a different tower type: 
+Placing Towers: Click on a circle on the map to select it, then press a number key (1-4) to place a tower. 
+Each number corresponds to a different tower type: 
 1: Circle Tower 
 2: Square Tower
 3: Triangle Tower 
