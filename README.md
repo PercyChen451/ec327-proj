@@ -24,5 +24,5 @@ ec327 final project: protect Prof Carruthers.
 - Bullets: Towers shoot bullets at enemies. Bullets deal damage upon hitting enemies. 
 - Home: Your base that you need to protect. If it is destroyed, the game ends. 
 - Difficulty The game gets progressively harder as enemies spawn more frequently and with increased health and speed. 
-- Credits Developed by  Yufei Fan, Feng Tai, Panqi Gu, Yuxuan Chen License This project is licensed under the do whatever the fuck you want License
+- Credits Developed by  Yufei Fan, Feng Tai, Panqi Gu, Yuxuan Chen License This project is licensed under the do whatever the f you want License
 - search the LICENSE name for details. Contact If you have any questions or feedback, please contact Percy27@bu.edu
