@@ -1,5 +1,5 @@
 # ec327-proj
-ec327 final project: protect Prof Carruthers. 
+ec327 final project: protect Prof Carruthers. By Jimmy Tai, Percy Chen, Ink Gu, Yufei Fan
 - Features using sfml library
 - Multiple game states: Start Screen, Level Select Screen, Level Screen
 - Four different types of towers, each with unique attributes
